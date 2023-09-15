@@ -2,6 +2,8 @@
 
 A Rust crate for creating ASCII console-style games.
 
+(NOTE: WIP alpha crate!)
+
 ## Installation
 
 Add RUSTSCII as a dependency in your `Cargo.toml`:

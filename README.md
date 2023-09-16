@@ -33,7 +33,7 @@ Contributions are welcome! If you have any suggestions, bug reports, or feature 
 This project is licensed under the MIT License - see the [LICENSE](https://github.com/jossse69/rustscii/blob/master/LICENSE) file for details.
 
 ## Version
-0.1.0
+0.1.0 (alpha)
 
 ## Credits
 - [jossse69](https://github.com/jossse69) (original author)

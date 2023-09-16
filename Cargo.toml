@@ -9,3 +9,4 @@ crate-type = ["lib"]
 [dependencies]
 gfx = "0.18.3"
 winit = "0.28.6"
+image = "0.24.7"

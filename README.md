@@ -10,7 +10,7 @@ Add RUSTSCII as a dependency in your `Cargo.toml`:
 
 ```toml
 [dependencies]
-rustscii = "0.1.0"
+rustscii = "x.y.z" # check latest version
 ```
 
 ## Getting Started

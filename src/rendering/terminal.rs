@@ -85,4 +85,15 @@ impl Terminal {
     pub fn get_rc(self) -> Rc<RefCell<Terminal>> {
         Rc::new(RefCell::new(self))
     }
+
+    /// clone this Terminal instance
+    pub fn clone(&self) -> Terminal {
+        Terminal {
+            char_width: self.char_width,
+            char_height: self.char_height,
+            font: self.font.clone(),
+            characters: self.characters.clone(),
+            grid: self.grid.clone(),
+        }
+    }
 }

@@ -13,3 +13,7 @@ crate-type = ["lib"]
 gfx = "0.18.3"
 winit = "0.28.6"
 image = "0.24.7"
+
+[repository]
+type = "git"
+url = "https://github.com/jossse69/rustscii.git"

@@ -4,6 +4,7 @@ version = "0.1.0"
 description = "A Rust ASCII game framework."
 authors = ["josé luiz <jlc.beker@gmail.com>"]
 edition = "2021"
+license = "MIT"
 
 [lib]
 crate-type = ["lib"]

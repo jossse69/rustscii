@@ -27,7 +27,7 @@ fn main() {
 For more details, check out the [documentation](https://docs.rs/rustscii/0.1.0/rustscii/).
 
 ## Contributing
-Contributions are welcome! If you have any suggestions, bug reports, or feature requests, please open an issue or submit a [pull request](https://).
+Contributions are welcome! If you have any suggestions, bug reports, or feature requests, please open an issue or submit a [pull request](https://github.com/jossse69/rustscii/edit/master/README.md).
 
 ## License
 This project is licensed under the MIT License - see the [LICENSE](https://github.com/jossse69/rustscii/blob/master/LICENSE) file for details.

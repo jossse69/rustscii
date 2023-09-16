@@ -1,6 +1,6 @@
 [package]
 name = "rustscii"
-version = "0.1.1"
+version = "0.1.2"
 description = "A Rust ASCII game framework."
 authors = ["josé luiz <jlc.beker@gmail.com>"]
 edition = "2021"
